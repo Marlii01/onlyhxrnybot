@@ -19,7 +19,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching OnlyHorny 👀","Powered By Marlii 🔒","Listening to OnlyHorny 📦"];
+const statusMessages = ["Watching Marlii 👀","Powered By OnlyHorny 🔒","Listening to OnlyHorny 📦"];
 
 
 let currentIndex = 0;
