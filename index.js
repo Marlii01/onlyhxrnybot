@@ -14,8 +14,8 @@ app.get('/', (req, res) => {
   res.send('YaY Your Bot Status Changed✨');
 });
 app.listen(port, () => {
-  console.log(`🔗 Listening OnlyHorny 🔒`);
-  console.log(`🔗 Powered By Marlii 👀);
+  console.log(`🔗 Listening to OnlyHorny 🔒`);
+  console.log(`🔗 Powered By Marlii 👀`);
 });
 
 
